@@ -1,4 +1,11 @@
-
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+    cout << "Assalamu Alaikum, World! I am Ashraful Alam.\n";
+    return 0;
+}
+```
 <!-- =============== HEADER =============== -->
 
 <h1 align="center">Hi 👋, I'm Ashraful Alam</h1>
